@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://xcysuccess.github.io/sitemap.xml 
